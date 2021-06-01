@@ -9,15 +9,16 @@
 		</div>
 		<div class="nav">
 			<one />
-			<one />
+			<two />
 		</div>
 	</div>
 </template>
 
 <script>
 	import one from "@/components/home/nav/one/one.vue";
+	import two from "@/components/home/nav/two/two.vue";
 	export default {
-		components: { one },
+		components: { one,two },
 	};
 </script>
 

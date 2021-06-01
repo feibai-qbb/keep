@@ -1,0 +1,6 @@
+{
+    "img": { "img1": "./shopImg/12.png", "img2": "./shopImg/11.png" },
+    "homes": { "img": "./homeImg/home.png" },
+    "item": [{ "img": "./shopImg/1.png", "title": "智能装备" }, { "img": "./shopImg/2.png", "title": "健康食" }, { "img": "./shopImg/3.png", "title": "运动手环" }, { "img": "./shopImg/4.png", "title": "女子服饰" }, { "img": "./shopImg/5.png", "title": "男子服饰" }, { "img": "./shopImg/6.png", "title": "室内健身" }, { "img": "./shopImg/7.png", "title": "运动内衣" }, { "img": "./shopImg/8.png", "title": "瑜伽装备" }, { "img": "./shopImg/9.png", "title": "户外跑步" }, { "img": "./shopImg/10.png", "title": "运动护具" }],
+    "last": ["./shopImg/13.png", "./shopImg/14.png", "./shopImg/15.png"]
+}

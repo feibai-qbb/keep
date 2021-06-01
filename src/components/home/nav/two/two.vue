@@ -15,7 +15,7 @@
 			};
 		},
 		mounted(){
-			this.navarr = this.$store.state.home.onearr
+			this.navarr = this.$store.state.home.twoarr
 		}
 	};
 </script>
@@ -34,6 +34,6 @@
 	.top img {
 		width: 4rem;
 		height: 4rem;
-		border-radius: 1.5rem;
+		border-radius: 0.5rem;
 	}
 </style>

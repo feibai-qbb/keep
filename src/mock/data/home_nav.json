@@ -1,3 +1,8 @@
 {
-    "arr": ["iii"]
+    "onearr": [{ "img": "./homeImg/1.png", "title": "跑步" }, { "img": "./homeImg/2.png", "title": "行走" }, { "img": "./homeImg/3.png", "title": "骑行" }, { "img": "./homeImg/4.png", "title": "跑步机" }, { "img": "./homeImg/5.png", "title": "更多" }],
+    "twoarr": [{ "img": "./homeImg/6.png", "title": "找课时" }, { "img": "./homeImg/7.png", "title": "直播课" }, { "img": "./homeImg/8.png", "title": "活动挑战" }, { "img": "./homeImg/9.png", "title": "训练计划" }, { "img": "./homeImg/10.png", "title": "课程榜单" }],
+    "three": [{ "img": "./homeImg/11.png" }, { "img": "./homeImg/12.png" }, { "img": "./homeImg/11.png" }, { "img": "./homeImg/12.png" }],
+    "home": { "img": "./homeImg/home.png" },
+    "tuijian": [{ "img": "./homeImg/13.png", "title": "跑后拉伸", "txt": "k1-0基础-5分钟", "o": "跑步腿粗，你肯定没拉伸" }, { "img": "./homeImg/14.png", "title": "漫画手养成", "txt": "k1-0基础-6分钟", "o": "安雨小新" }, { "img": "./homeImg/15.png", "title": "腹肌撕裂者", "txt": "k1-0基础-9分钟", "o": "keep 官方课" }],
+    "spots": { "day": "1", "xh": "29", "time": "6", "img": "./homeImg/16.png" }
 }
