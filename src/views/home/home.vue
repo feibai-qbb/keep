@@ -13,7 +13,10 @@ import top from '@/components/home/top/top.vue'
 import Ma from '@/components/home/ma/ma.vue'
 import Tab from '../../components/tabbar/tab.vue'
 export default {
-	components: { top, Mav,Ma,Tab }
+	components: { top, Mav,Ma,Tab },
+  mounted(){
+    this.$store.dispatch("axioslink",{url:"/home/nav"})
+  }
 }
 </script>
 
